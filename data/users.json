@@ -1,0 +1,27 @@
+[
+  {
+    "username": "ali",
+    "password": "1234",
+    "role": "user",
+    "restaurant": null,
+    "orders": [
+      "Zqja5vKcTH",
+      "h1jhAxB1j2",
+      "ksMbpsoTM3"
+    ]
+  },
+  {
+    "username": "reza_owner",
+    "password": "pass123",
+    "role": "blocked_restaurant_owner",
+    "restaurant": null,
+    "orders": []
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "restaurant": null,
+    "orders": []
+  }
+]
